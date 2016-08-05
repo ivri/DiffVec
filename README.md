@@ -1,6 +1,6 @@
 # DiffVec
 
-The dataset for evaluating of verctor differences.
+The dataset for evaluating of vector differences.
 
 ## Take and Took, Gaggle and Goose, Book and Read: Evaluating the Utility of Vector Differences for Lexical Relation Learning
 Ekaterina Vylomova, Laura Rimell, Trevor Cohn, and Timothy Baldwin 
@@ -13,3 +13,7 @@ out such an evaluation in two learning settings: (1) spectral clustering to indu
 vector differences into relation types. We find that word embeddings capture a surprising amount of information, and that, under suit-
 able supervised training, vector subtraction generalises well to a broad range of relations,
 including over unseen lexical items.
+
+There are asymmetric relations consisting of either verbs or nouns. 
+
+The final dataset consists of 12,458 triples relation, word 1 , word 2 , comprising 15 relation types, extracted from SemEval’12 (Jurgens et al., 2012), BLESS (Baroni and Lenci, 2011), the MSR analogy dataset (Mikolov et al., 2013c), the light verb dataset of Tan et al. (2006a), Princeton WordNet (Fellbaum, 1998), Wiktionary, 5 and a web lexicon of collective nouns
