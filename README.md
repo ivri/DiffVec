@@ -15,4 +15,4 @@ including over unseen lexical items.
 
 There are asymmetric relations consisting of either verbs or nouns. 
 
-The final dataset consists of 12,458 triples {relation, word_1 , word_2), comprising 15 relation types, extracted from SemEval’12 (Jurgens et al., 2012), BLESS (Baroni and Lenci, 2011), the MSR analogy dataset (Mikolov et al., 2013c), the light verb dataset of Tan et al. (2006a), Princeton WordNet (Fellbaum, 1998), Wiktionary, 5 and a web lexicon of collective nouns
+The final dataset consists of 12,458 triples {relation, word_1 , word_2), comprising 15 relation types, extracted from SemEval’12 (Jurgens et al., 2012), BLESS (Baroni and Lenci, 2011), the MSR analogy dataset (Mikolov et al., 2013c), the light verb dataset of Tan et al. (2006a), Princeton WordNet (Fellbaum, 1998), Wiktionary, and a web lexicon of collective nouns
