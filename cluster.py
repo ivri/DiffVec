@@ -118,7 +118,7 @@ def get_arguments(argv):
 
 def usage():
     usage_text = '''
-    Script does spectral clu`stering of word embeddings provided in the standart format
+    Script does spectral clustering of word embeddings provided in the standart format
     USAGE: ''' + os.path.basename(__file__) + ''' -f <file_vectors> -c <clust_type:affin, knn> -n <number_of_clusters> -d <distance:euclid, cosine> -p <parameter: gamma, k(NN)> [-s <std>]  -h (help) 
 
     '''

@@ -46,6 +46,22 @@ def shuffle_relations(file_relations,oppos_out, shuff_out):
     writer.close()
 
 
+def main(argv):
+	rels=''
+	oppos=''
+	shuff=''
+	try:
+		opts, args = getopt.getopt(argv,"s:",["seman="])
+	except getopt.GetoptError:
+		print 'generate_NS.py -s <semanticrels>'
+		sys.exit(2)
+	for opt, arg in opts:
+		if opt in ("-s", "--seman"):
+			semantic=arg
+		
+	shuffle_relations(sematic,semantic+'.oppos.csv',semantic+'.shuff.csv')
+
+if __name__ == "__main__":
+   main(sys.argv[1:])
 
 
-shuffle_relations('vectors.csv','vectors.oppos.csv','vectors.shuff.csv')

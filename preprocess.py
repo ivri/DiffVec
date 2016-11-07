@@ -175,7 +175,7 @@ def main(argv):
 	try:
 		opts, args = getopt.getopt(argv,"s:v:o:",["seman=","vectors=", "output="])
 	except getopt.GetoptError:
-		print 'preprocess.py -s <semanticrels> -v <vectors> -o<outputfile>'
+		print 'preprocess.py -s <semanticrels> -v <vectors> -o <outputfile>'
 		sys.exit(2)
 	for opt, arg in opts:
 		if opt in ("-s", "--seman"):
