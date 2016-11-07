@@ -43,11 +43,11 @@ Run Spectral Clustering over the vectors
   Automaically gererates the file name like *fname.affin."$clust_number".euclid.0.1.1*  
 
 ### run_cluster.sh
-Scripts that runs *cluster.py*  
+Script that runs *cluster.py*  
 Need to specify settings and the file inside  
 
 ### VM_average.sh
 Script for clustering evaluation.   
-Takes average V-Measure for various runs depending on numbers of clusters  
+Takes average V-Measure for various runs depending on the number of the clusters  
 Need to set your file name inside  
 Better to put each run over several clusters in a separate EX\d(EX1, EX2, ..) folder  
