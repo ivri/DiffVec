@@ -21,21 +21,21 @@ The final dataset consists of 12,458 triples {relation, word_1 , word_2), compri
 
 ### preprocess.py
 Generates the files with vectors difference  
-Usage: preprocess.py -s <semanticrels> -v <vectors> -o <outputfile>  
-<semanticrels> -- input file with relations  
-<vectors> -- input file with word embeddings (use ' '(space) as delimiter)  
-<outputfile>  -- output file
+```Usage: preprocess.py -s <semanticrels> -v <vectors> -o <outputfile>```  
+`<semanticrels>` -- input file with relations  
+`<vectors>` -- input file with word embeddings (use ' '(space) as delimiter)  
+`<outputfile>`  -- output file
 
 ### generate_NS.py
 Generate negative samples (opposite and shuffled pairs)  
-Usage: generate_NS.py -s <semanticrels>  
-<semanticrels> -- input file with relations  
-Outputs <semanticrels>.oppos.csv and <semanticrels>.shuff.csv files with opposite and shiffled pairs   
+```Usage: generate_NS.py -s <semanticrels>```  
+```<semanticrels>``` -- input file with relations  
+Outputs `<semanticrels>.oppos.csv` and `<semanticrels>.shuff.csv` files with opposite and shiffled pairs   
 Run preprocess.py to get WEs for their differences  
 
 ### cluster.py
 Run Spectral Clustering over the vectors  
-  USAGE: -f <file_vectors> -c <clust_type:affin, knn> -n <number_of_clusters> -d <distance:euclid, cosine> -p <parameter: gamma, k(NN)> [-s <std>]  
+  ```USAGE: -f <file_vectors> -c <clust_type:affin, knn> -n <number_of_clusters> -d <distance:euclid, cosine> -p <parameter: gamma, k(NN)> [-s <std>]```  
   Example: python cluster.py -f  google.300d.vec -c affin -n 80 -d euclid -p 0.1  
   Outputs:  
 	prints V-Measure and Homogeneity  
