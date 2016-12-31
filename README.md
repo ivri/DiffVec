@@ -17,6 +17,8 @@ There are asymmetric relations consisting of either verbs or nouns.
 
 The final dataset consists of **12,458** triples *{relation, word_1 , word_2}*, comprising **15** relation types, extracted from SemEval’12 (Jurgens et al., 2012), BLESS (Baroni and Lenci, 2011), the MSR analogy dataset (Mikolov et al., 2013c), the light verb dataset of Tan et al. (2006a), Princeton WordNet (Fellbaum, 1998), Wiktionary, and a web lexicon of collective nouns
 
+The suset of 9 classes consists of the following relations: *collective_noun, event, hyper, mero, noun_singplur, prefix$re, verb_3rd, verb_3rd_past, verb_past*
+
 Other: [Slides from ACL'2016 talk] (http://www.slideshare.net/ivrik/take-and-took-gaggle-and-goose-book-and-read-evaluating-the-utility-of-vector-differences-for-lexical-relation-learning), [arxiv version of the paper] (https://arxiv.org/abs/1509.01692), [ACL'2016 talk/video] (http://techtalks.tv/talks/ekaterina-vylomova-laura-rimell-trevor-cohn-and-timothy-baldwin/62808/), [an article on TechnologyReview] (https://www.technologyreview.com/s/541356/king-man-woman-queen-the-marvelous-mathematics-of-computational-linguistics/).
 
 ## Scripts

@@ -1,12 +1,10 @@
 collective_noun,warren,hares
-CASERELATIONS$Object:Instrument,fire,logs
 verb_3rd,begin,begins
 event,keep,jar
 mero,shirt,back
 event,make,shovel
 vn-deriv,isolate,isolation
 event,plant,corn
-CASERELATIONS$Agent:Recipient,clerk,customer
 verb_past,become,became
 REFERENCE$Expression,wink,friendliness
 vn-deriv,miniaturize,miniature
@@ -115,7 +113,6 @@ hyper,beast,deer
 event,hold,knife
 vn-deriv,diversify,diversification
 prefix$re,look,relook
-CASERELATIONS$Agent:Instrument,drummer,sticks
 vn-deriv,supervise,supervisor
 hyper,conveyance,jet
 event,cost,hotel
@@ -140,7 +137,6 @@ hyper,vehicle,ambulance
 vn-deriv,train,trainer
 mero,pineapple,core
 mero,frog,eye
-CASERELATIONS$Agent:Recipient,accountant,taxpayer
 mero,house,room
 vn-deriv,squander,squandering
 mero,house,roof
@@ -227,7 +223,6 @@ verb_3rd,ensure,ensures
 vn-deriv,pelt,pelting
 mero,turtle,tail
 event,organize,wardrobe
-CASERELATIONS$Object:Recipient,prescription,patient
 mero,truck,compartment
 vn-deriv,concoct,concoction
 vn-deriv,canton,cantonment
@@ -258,7 +253,6 @@ vn-deriv,cloud,clouding
 verb_past,receive,received
 event,walk,bear
 vn-deriv,sweat,sweating
-CASERELATIONS$Action:Object,play,instrument
 event,choose,coat
 vn-deriv,receive,receiver
 verb_3rd,receive,receives
@@ -317,7 +311,6 @@ event,boil,potato
 vn-deriv,test,tester
 mero,elm,limb
 mero,jeans,zipper
-CASERELATIONS$Recipient:Instrument,charity,donations
 vn-deriv,spur,spurring
 event,breathe,turtle
 vn-deriv,question,questioning
@@ -381,7 +374,6 @@ mero,donkey,stomach
 event,produce,rifle
 event,eat,couch
 vn-deriv,simulate,simulation
-CASERELATIONS$Agent:Object,architect,drawings
 event,patrol,battleship
 mero,bus,trunk
 mero,chair,back
@@ -472,7 +464,6 @@ mero,car,door
 mero,hat,brim
 vn-deriv,scatter,scattering
 prefix$re,instate,reinstate
-CASERELATIONS$Agent:Instrument,chef,knife
 vn-deriv,refine,refinery
 hyper,conveyance,train
 mero,restaurant,glass
@@ -559,7 +550,6 @@ CAUSE-PURPOSE$EnablingAgent:Object,remote,television
 hyper,garment,shirt
 mero,bear,eye
 event,groom,donkey
-CASERELATIONS$Object:Recipient,award,winner
 vn-deriv,chip,chipping
 collective_noun,swarm,bees
 hyper,artwork,sculpture
@@ -610,7 +600,6 @@ event,make,chisel
 SPACE-TIME$Attachment,nail,board
 vn-deriv,identify,identification
 event,stand,train
-CASERELATIONS$Agent:Object,chef,oven
 mero,frigate,bilge
 event,build,cottage
 event,steal,radio
@@ -667,7 +656,6 @@ mero,stereo,speaker
 vn-deriv,build,building
 event,plant,cypress
 hyper,root,beet
-CASERELATIONS$Object:Recipient,certificate,teacher
 collective_noun,shoal,salmon
 event,repair,jet
 vn-deriv,sweeten,sweetening
@@ -694,7 +682,6 @@ vn-deriv,relegate,relegation
 vn-deriv,earn,earner
 hyper,object,phone
 event,own,guitar
-CASERELATIONS$Action:Object,drain,tub
 vn-deriv,slate,slating
 mero,shovel,blade
 event,break,toaster
@@ -776,7 +763,6 @@ hyper,vertebrate,bull
 event,sit,table
 hyper,commodity,oven
 event,recycle,bottle
-CASERELATIONS$Agent:Recipient,attorney,client
 vn-deriv,petition,petitioner
 mero,mall,shops
 event,assemble,hammer
@@ -838,14 +824,12 @@ event,peel,peach
 event,bite,ant
 vn-deriv,wail,wailing
 event,save,gorilla
-CASERELATIONS$Action:Object,write,paper
 mero,bottle,content
 mero,dress,fabric
 vn-deriv,complain,complainant
 event,board,ferry
 vn-deriv,syndicate,syndicator
 event,live,beetle
-CASERELATIONS$Agent:Instrument,fairy,wand
 hyper,dish,plate
 vn-deriv,store,storage
 hyper,transportation,bus
@@ -932,7 +916,6 @@ mero,frigate,mast
 mero,hawk,eye
 mero,knife,steel
 vn-deriv,insulate,insulation
-CASERELATIONS$Agent:Recipient,father,son
 event,cook,turtle
 event,hear,stereo
 collective_noun,flock,sheep
@@ -1084,7 +1067,6 @@ event,keep,bowl
 vn-deriv,originate,origination
 mero,guitar,bridge
 vn-deriv,inspire,inspiration
-CASERELATIONS$Action:Recipient,inspire,follower
 hyper,insect,butterfly
 mero,blouse,button
 prefix$re,union,reunion
@@ -1101,7 +1083,6 @@ event,protect,gorilla
 mero,shirt,material
 event,move,frigate
 hyper,transport,van
-CASERELATIONS$Agent:Object,teacher,assignment
 mero,dolphin,mouth
 vn-deriv,forge,forgery
 verb_past,seek,sought
@@ -1119,7 +1100,6 @@ event,see,tiger
 mero,freezer,ice
 vn-deriv,sit,sitting
 hyper,citrus,lemon
-CASERELATIONS$Agent:Object,sculptor,sculpture
 event,brandish,knife
 event,choose,shirt
 event,injure,bomb
@@ -1161,7 +1141,6 @@ event,listen,piano
 mero,pine,branch
 REFERENCE$Knowledge,chemistry,elements
 vn-deriv,obstruct,obstruction
-CASERELATIONS$Action:Object,nurse,baby
 mero,tanker,bilge
 hyper,object,television
 vn-deriv,aggravate,aggravation
@@ -1182,7 +1161,6 @@ event,gather,squirrel
 vn-deriv,lynch,lynching
 mero,dress,neckline
 mero,cauliflower,leaf
-CASERELATIONS$Recipient:Instrument,champion,trophy
 event,clean,dresser
 mero,bomb,grip
 vn-deriv,shun,shunning
@@ -1237,7 +1215,6 @@ event,fuck,sofa
 event,drink,restaurant
 CAUSE-PURPOSE$Cause:Effect,sex,pregnancy
 mero,gun,stock
-CASERELATIONS$Object:Recipient,education,student
 event,stop,train
 vn-deriv,formulate,formulation
 verb_3rd_past,seems,seemed
@@ -1249,8 +1226,6 @@ mero,library,exterior
 vn-deriv,commit,committee
 vn-deriv,accuse,accusation
 mero,cod,tail
-CASERELATIONS$Action:Object,fight,war
-CASERELATIONS$Action:Object,mend,clothing
 mero,cannon,gunpowder
 event,grow,spinach
 mero,glove,fabric
@@ -1344,7 +1319,6 @@ event,fly,cockroach
 mero,zoo,lion
 vn-deriv,growl,growling
 event,strike,frigate
-CASERELATIONS$Action:Object,bike,path
 mero,pistol,handle
 mero,radio,resistance
 hyper,animal,moth
@@ -1377,14 +1351,12 @@ vn-deriv,crave,craving
 collective_noun,herd,kangaroos
 mero,knife,iron
 event,eat,cockroach
-CASERELATIONS$Recipient:Instrument,physician,degree
 vn-deriv,kidnap,kidnapping
 mero,bookcase,metal
 mero,stereo,player
 hyper,tableware,spoon
 hyper,artifact,couch
 mero,box,plastic
-CASERELATIONS$Agent:Instrument,lawyer,books
 event,wield,sword
 event,buy,shovel
 event,hurt,hammer
@@ -1437,7 +1409,6 @@ event,fly,eagle
 event,scare,rat
 hyper,aircraft,bomber
 mero,deer,meat
-CASERELATIONS$Agent:Object,photographer,camera
 event,leave,tanker
 mero,oak,trunk
 vn-deriv,characterize,character
@@ -1526,7 +1497,6 @@ vn-deriv,occupy,occupant
 vn-deriv,decide,decision
 vn-deriv,exhaust,exhaustion
 mero,rat,tooth
-CASERELATIONS$Object:Recipient,trophy,champion
 mero,ambulance,petrol
 vn-deriv,nurse,nursery
 vn-deriv,foreshadow,foreshadowing
@@ -1537,7 +1507,6 @@ vn-deriv,repay,repayment
 vn-deriv,wander,wandering
 event,carry,trumpet
 event,stain,blouse
-CASERELATIONS$Object:Instrument,student,education
 event,refuel,yacht
 verb_past,tell,told
 mero,cat,claw
@@ -1560,12 +1529,10 @@ mero,chisel,point
 mero,rifle,remover
 hyper,good,toaster
 mero,truck,mirror
-CASERELATIONS$Recipient:Instrument,student,certification
 vn-deriv,interfere,interference
 hyper,veggie,radish
 event,buy,trumpet
 vn-deriv,lobby,lobbyist
-CASERELATIONS$Object:Instrument,lock,key
 hyper,vegetable,onion
 event,change,jacket
 mero,guitar,neck
@@ -1589,7 +1556,6 @@ lvc,make,determination
 vn-deriv,orphan,orphanage
 event,nap,bed
 vn-deriv,bulldoze,bulldozer
-CASERELATIONS$Agent:Object,writer,story
 mero,pub,waiter
 CAUSE-PURPOSE$Agent:Goal,addict,fix
 mero,knife,hilt
@@ -1600,7 +1566,6 @@ vn-deriv,retard,retardation
 event,farm,rabbit
 vn-deriv,tolerate,tolerance
 event,change,sweater
-CASERELATIONS$Action:Recipient,treat,patient
 vn-deriv,congregate,congregation
 event,drink,cat
 mero,helicopter,steel
@@ -1630,7 +1595,6 @@ hyper,conveyance,helicopter
 event,run,alligator
 vn-deriv,suck,sucker
 mero,library,floor
-CASERELATIONS$Agent:Object,designer,fashions
 mero,grasshopper,head
 vn-deriv,segment,segmentation
 CAUSE-PURPOSE$Agent:Goal,astronaut,space
@@ -1651,7 +1615,6 @@ hyper,mammal,beaver
 vn-deriv,gamble,gambler
 event,own,castle
 vn-deriv,tax,taxation
-CASERELATIONS$Agent:Recipient,lawyer,client
 CAUSE-PURPOSE$Action/Activity:Goal,starving,hungry
 mero,scooter,petrol
 event,sell,couch
@@ -1670,7 +1633,6 @@ vn-deriv,squeeze,squeezing
 REFERENCE$Sign:Significant,compass,direction
 mero,bus,radio
 SPACE-TIME$Item:Location,refrigerator,food
-CASERELATIONS$Action:Object,sew,rip
 mero,library,student
 vn-deriv,originate,originator
 collective_noun,ambush,tigers
@@ -1692,7 +1654,6 @@ event,blow,grenade
 vn-deriv,encase,encasement
 event,fuck,bed
 hyper,church,cathedral
-CASERELATIONS$Action:Object,talk,speech
 vn-deriv,plow,plowing
 vn-deriv,vaccinate,vaccine
 hyper,transport,helicopter
@@ -1706,7 +1667,6 @@ hyper,object,hat
 vn-deriv,destroy,destruction
 vn-deriv,collide,collision
 collective_noun,grist,bees
-CASERELATIONS$Agent:Instrument,teacher,chalk
 mero,yacht,steel
 vn-deriv,pitch,pitching
 vn-deriv,enjoin,injunction
@@ -1724,7 +1684,6 @@ mero,state,county
 vn-deriv,move,motion
 SPACE-TIME$Location:Instrument/AssociatedItem,store,cart
 hyper,meal,dinner
-CASERELATIONS$Action:Object,eat,food
 mero,bowl,bottom
 SPACE-TIME$Contiguity,wall,floor
 vn-deriv,vary,variance
@@ -1795,7 +1754,6 @@ vn-deriv,master,mastery
 mero,cinema,film
 mero,pistol,projectile
 event,wipe,saw
-CASERELATIONS$Object:Recipient,diploma,student
 mero,bag,color
 verb_3rd_past,reaches,reached
 vn-deriv,forsake,forsaking
@@ -1829,7 +1787,6 @@ vn-deriv,train,training
 vn-deriv,cleave,cleavage
 mero,grasshopper,shell
 vn-deriv,authenticate,authentication
-CASERELATIONS$Action:Recipient,preach,disciple
 vn-deriv,shorten,shortening
 SPACE-TIME$Item:Location,space,planets
 mero,cypress,wood
@@ -1867,7 +1824,6 @@ CAUSE-PURPOSE$Cause:Effect,education,expertise
 mero,freezer,engine
 vn-deriv,brew,brewer
 verb_3rd_past,pays,paid
-CASERELATIONS$Action:Object,act,scene
 hyper,object,spear
 vn-deriv,invade,invader
 vn-deriv,revive,revival
@@ -2028,7 +1984,6 @@ hyper,herbivore,sheep
 event,kill,tuna
 mero,restaurant,bar
 mero,boat,motor
-CASERELATIONS$Agent:Object,artist,masterpiece
 event,store,fridge
 vn-deriv,duplicate,duplication
 CAUSE-PURPOSE$Instrument:IntendedAction,airplane,fly
@@ -2041,7 +1996,6 @@ mero,lizard,tongue
 vn-deriv,repudiate,repudiation
 vn-deriv,tap,tapper
 event,wound,pistol
-CASERELATIONS$Object:Recipient,donation,charity
 lvc,have,charge
 event,frighten,alligator
 event,walk,swan
@@ -2055,7 +2009,6 @@ verb_3rd_past,includes,included
 hyper,artifact,bookcase
 CAUSE-PURPOSE$Cause:CompensatoryAction,happiness,smile
 vn-deriv,shift,shifting
-CASERELATIONS$Action:Object,dig,ditch
 event,brake,van
 vn-deriv,confide,confidence
 event,arrive,library
@@ -2112,7 +2065,6 @@ event,produce,spade
 vn-deriv,disinfect,disinfection
 vn-deriv,ease,easement
 mero,television,video
-CASERELATIONS$Object:Recipient,drug,patient
 event,produce,hatchet
 vn-deriv,certify,certificate
 vn-deriv,occupy,occupancy
@@ -2139,7 +2091,6 @@ vn-deriv,propel,propellor
 mero,revolver,steel
 vn-deriv,frisk,frisking
 event,fly,butterfly
-CASERELATIONS$Action:Recipient,lead,member
 collective_noun,knot,frogs
 event,leave,ferry
 vn-deriv,falsify,falsification
@@ -2169,7 +2120,6 @@ hyper,pet,turtle
 vn-deriv,open,opening
 mero,computer,mouse
 collective_noun,nuisance,cats
-CASERELATIONS$Object:Instrument,horn,mouthpiece
 event,clean,catfish
 verb_3rd_past,reduces,reduced
 mero,ambulance,seat
@@ -2230,7 +2180,6 @@ mero,dishwasher,water
 event,live,lizard
 hyper,device,phone
 event,sleep,tiger
-CASERELATIONS$Object:Instrument,piano,fingers
 event,plant,celery
 mero,robin,head
 mero,car,seat
@@ -2243,7 +2192,6 @@ vn-deriv,tax,taxer
 vn-deriv,size,sizing
 event,rot,beet
 event,explode,tanker
-CASERELATIONS$Agent:Instrument,soldier,gun
 event,grow,garlic
 CAUSE-PURPOSE$Prevention,vaccine,virus
 mero,gun,ejector
@@ -2321,7 +2269,6 @@ hyper,artifact,rake
 mero,bus,roof
 event,stand,pine
 event,leave,villa
-CASERELATIONS$Agent:Instrument,maid,broom
 vn-deriv,circumvent,circumvention
 vn-deriv,transfer,transferral
 event,farm,goat
@@ -2336,7 +2283,6 @@ mero,lettuce,leaf
 vn-deriv,bounce,bouncer
 hyper,good,cloak
 mero,stove,wood
-CASERELATIONS$Object:Instrument,horse,reins
 vn-deriv,repel,repellent
 mero,meet,athlete
 verb_past,seem,seemed
@@ -2387,7 +2333,6 @@ mero,goldfish,eye
 hyper,container,jar
 vn-deriv,fuse,fusion
 event,cut,cucumber
-CASERELATIONS$Action:Object,visit,sick
 prefix$re,birth,rebirth
 vn-deriv,obey,obedience
 mero,herring,bone
@@ -2576,7 +2521,6 @@ vn-deriv,disinvest,undress
 mero,spear,blade
 vn-deriv,equip,equipping
 vn-deriv,woo,wooing
-CASERELATIONS$Action:Object,operate,machine
 mero,pig,nose
 event,use,car
 vn-deriv,resuscitate,resuscitation
@@ -2674,7 +2618,6 @@ verb_past,find,found
 event,sit,motorcycle
 vn-deriv,dig,digger
 mero,jar,content
-CASERELATIONS$Recipient:Instrument,millionaire,money
 collective_noun,pack,mules
 vn-deriv,insure,insurer
 event,carry,glove
@@ -2747,12 +2690,10 @@ event,eat,lime
 mero,helicopter,rotor
 event,blow,flute
 event,kill,rat
-CASERELATIONS$Action:Object,paint,picture
 event,eat,table
 hyper,beast,beaver
 mero,hospital,table
 verb_3rd,bring,brings
-CASERELATIONS$Agent:Recipient,orator,audience
 vn-deriv,polish,polishing
 vn-deriv,elect,elector
 hyper,herbivore,goat
@@ -2761,7 +2702,6 @@ mero,yacht,wood
 mero,revolver,trigger
 hyper,conveyance,truck
 vn-deriv,plaster,plastering
-CASERELATIONS$Action:Recipient,broom,sweeper
 event,ripen,peach
 verb_past,try,tried
 verb_3rd_past,saves,saved
@@ -2883,7 +2823,6 @@ event,graze,goat
 vn-deriv,coin,coinage
 mero,ambulance,gas
 vn-deriv,manipulate,manipulator
-CASERELATIONS$Object:Recipient,cough,sickness
 event,spill,bottle
 event,serve,fork
 vn-deriv,truck,trucking
@@ -2896,7 +2835,6 @@ vn-deriv,submerge,submerging
 vn-deriv,retain,retention
 event,lay,salmon
 event,celebrate,cathedral
-CASERELATIONS$Agent:Object,actress,script
 mero,fox,tail
 vn-deriv,quench,quenching
 event,live,cedar
@@ -2910,7 +2848,6 @@ hyper,creature,owl
 event,produce,pistol
 event,repair,train
 hyper,headdress,hat
-CASERELATIONS$Action:Object,forgive,sin
 prefix$re,acquisition,reacquisition
 event,clean,box
 mero,violin,front
@@ -2969,7 +2906,6 @@ event,fly,grasshopper
 mero,donkey,muzzle
 REFERENCE$Knowledge,geology,rocks
 vn-deriv,inquire,inquiring
-CASERELATIONS$Action:Recipient,sold,shopper
 vn-deriv,deduct,deduction
 vn-deriv,contend,contender
 mero,bear,ear
@@ -3040,7 +2976,6 @@ vn-deriv,encourage,encouragement
 vn-deriv,post,posting
 event,build,couch
 verb_past,help,helped
-CASERELATIONS$Agent:Object,blacksmith,iron
 mero,cocktail,alcohol
 vn-deriv,render,rendition
 verb_past,look,looked
@@ -3067,7 +3002,6 @@ event,dry,plum
 event,construct,hospital
 vn-deriv,pillage,pillaging
 vn-deriv,oppose,opponent
-CASERELATIONS$Recipient:Instrument,work,salary
 vn-deriv,see,seer
 mero,violin,scroll
 event,lay,frog
@@ -3121,7 +3055,6 @@ vn-deriv,shade,shading
 mero,truck,hood
 mero,washer,button
 collective_noun,yoke,oxen
-CASERELATIONS$Object:Instrument,head,hat
 event,sleep,bull
 mero,table,surface
 hyper,artifact,box
@@ -3161,7 +3094,6 @@ hyper,object,coat
 verb_3rd,start,starts
 mero,banana,potassium
 vn-deriv,voyage,voyager
-CASERELATIONS$Action:Recipient,raise,child
 event,sell,bag
 CAUSE-PURPOSE$EnablingAgent:Object,water,shower
 collective_noun,glaring,cats
@@ -3195,7 +3127,6 @@ hyper,good,freezer
 vn-deriv,regulate,regulating
 event,sink,frigate
 event,eat,lion
-CASERELATIONS$Object:Recipient,partner,dancer
 vn-deriv,stunt,stunting
 event,eat,apple
 event,fit,cloak
@@ -3334,7 +3265,6 @@ event,support,chair
 hyper,creature,dove
 vn-deriv,excavate,excavator
 hyper,object,blouse
-CASERELATIONS$Object:Recipient,gift,recipient
 mero,violin,tuner
 hyper,mammal,elephant
 event,carry,spade
@@ -3344,7 +3274,6 @@ vn-deriv,detach,detachment
 mero,parsley,leaf
 verb_3rd,show,shows
 mero,dress,back
-CASERELATIONS$Agent:Instrument,judge,gavel
 event,demolish,library
 vn-deriv,destroy,destroyer
 SPACE-TIME$Sequence,flirtation,tryst
@@ -3407,18 +3336,15 @@ hyper,animal,hornet
 vn-deriv,throw,thrower
 mero,castle,fireplace
 event,use,hatchet
-CASERELATIONS$Action:Recipient,honor,hero
 hyper,furniture,chairs
 event,buy,box
 hyper,bedding,sheets
 vn-deriv,dissipate,dissipation
-CASERELATIONS$Recipient:Instrument,dog,treat
 prefix$re,model,remodel
 vn-deriv,creak,creaking
 event,brown,toaster
 vn-deriv,grade,grading
 vn-deriv,coordinate,coordination
-CASERELATIONS$Action:Recipient,imprison,convict
 vn-deriv,recur,recurrence
 event,teach,guitar
 mero,villa,interior
@@ -3554,7 +3480,6 @@ mero,television,cable
 hyper,creature,eagle
 mero,castle,princess
 mero,garden,flowers
-CASERELATIONS$Object:Recipient,speaker,stereo
 event,close,washer
 event,use,truck
 event,work,desk
@@ -3582,7 +3507,6 @@ mero,revolver,bore
 mero,falcon,foot
 event,keep,bag
 event,lay,pigeon
-CASERELATIONS$Action:Recipient,commercial,viewer
 vn-deriv,harass,harassment
 vn-deriv,forecast,forecaster
 event,build,rifle
@@ -3663,7 +3587,6 @@ hyper,utensil,hatchet
 vn-deriv,rebury,reburial
 mero,dresser,shelf
 event,plant,birch
-CASERELATIONS$Object:Instrument,cloth,needle
 vn-deriv,mutter,muttering
 mero,eagle,pinion
 vn-deriv,mark,marking
@@ -3674,13 +3597,11 @@ mero,shovel,edge
 event,live,salmon
 mero,cathedral,organ
 event,catch,train
-CASERELATIONS$Recipient:Instrument,boyfriend,key
 mero,ambulance,front
 mero,pub,booze
 vn-deriv,pertain,pertinence
 mero,rat,mouth
 vn-deriv,send,sender
-CASERELATIONS$Agent:Instrument,housekeeper,broom
 CAUSE-PURPOSE$Agent:Goal,politician,office
 mero,hotel,pool
 hyper,plane,bomber
@@ -3689,7 +3610,6 @@ event,fight,missile
 event,sell,flute
 mero,spear,handle
 mero,turtle,skin
-CASERELATIONS$Agent:Instrument,runner,sneakers
 hyper,beverages,sodas
 vn-deriv,fluctuate,fluctuation
 lvc,make,acquisition
@@ -3758,7 +3678,6 @@ mero,hospital,exterior
 noun_singplur,hour,hours
 vn-deriv,fly,flier
 SPACE-TIME$TimeAction/Activity,adolescence,puberty
-CASERELATIONS$Agent:Object,judge,laws
 event,live,whale
 event,strike,hammer
 mero,radio,amplifier
@@ -3798,7 +3717,6 @@ mero,building,floor
 hyper,vessel,frigate
 mero,cello,bridge
 vn-deriv,license,licensee
-CASERELATIONS$Action:Object,row,boat
 event,work,screwdriver
 mero,box,content
 mero,college,teachers
@@ -3822,8 +3740,6 @@ event,make,saxophone
 mero,willow,bark
 event,load,cannon
 mero,hawk,plume
-CASERELATIONS$Action:Recipient,instruct,subordinate
-CASERELATIONS$Agent:Recipient,parent,child
 vn-deriv,support,supporting
 event,pour,spoon
 vn-deriv,wander,wanderer
@@ -3943,7 +3859,6 @@ vn-deriv,hike,hiker
 mero,grapefruit,seed
 vn-deriv,revitalize,revitalization
 mero,frigate,deck
-CASERELATIONS$Agent:Object,burglar,heist
 REFERENCE$Expression,discourse,relationship
 event,shoot,gun
 REFERENCE$Concealment,desk,button
@@ -3957,7 +3872,6 @@ lvc,make,advance
 collective_noun,herd,zebras
 mero,goldfish,skin
 event,frighten,gorilla
-CASERELATIONS$Agent:Object,composer,song
 prefix$re,assert,reassert
 vn-deriv,refocus,refocusing
 mero,box,interior
@@ -3980,7 +3894,6 @@ vn-deriv,inoculate,inoculation
 vn-deriv,redistribute,redistribution
 event,arrive,ambulance
 verb_3rd,open,opens
-CASERELATIONS$Action:Recipient,hurt,victim
 event,break,fighter
 vn-deriv,resettle,resettlement
 vn-deriv,despair,desperate
@@ -3998,7 +3911,6 @@ SPACE-TIME$Location:Instrument/AssociatedItem,birthday,present
 event,eat,swan
 collective_noun,harem,seals
 vn-deriv,vary,variant
-CASERELATIONS$Action:Recipient,sell,customer
 event,break,battleship
 vn-deriv,space,spacing
 event,protect,revolver
@@ -4127,7 +4039,6 @@ vn-deriv,bound,bounder
 event,die,elm
 event,bomb,missile
 event,smell,garlic
-CASERELATIONS$Agent:Recipient,mother,child
 vn-deriv,depart,departure
 event,wash,dishwasher
 event,kill,frog
@@ -4136,7 +4047,6 @@ vn-deriv,eat,eater
 vn-deriv,reject,rejection
 vn-deriv,buff,buffer
 hyper,artifact,trumpet
-CASERELATIONS$Recipient:Instrument,owner,property
 event,stop,motorcycle
 mero,mug,tea
 REFERENCE$Plan,instructions,model
@@ -4269,7 +4179,6 @@ collective_noun,herd,boar
 event,own,library
 event,build,bomb
 event,build,revolver
-CASERELATIONS$Agent:Instrument,programmer,computer
 mero,ambulance,passenger
 vn-deriv,play,playing
 mero,wardrobe,shirt
@@ -4323,7 +4232,6 @@ event,enjoy,piano
 event,close,cathedral
 SPACE-TIME$Sequence,start,finish
 vn-deriv,energize,energy
-CASERELATIONS$Object:Recipient,treatment,patient
 vn-deriv,follow,following
 event,hide,rabbit
 vn-deriv,string,stringer
@@ -4332,7 +4240,6 @@ mero,pine,limb
 event,clean,rake
 mero,plastic,polymer
 mero,hospital,concrete
-CASERELATIONS$Action:Object,plant,flower
 event,die,cat
 vn-deriv,tamp,tamper
 event,play,pub
@@ -4548,7 +4455,6 @@ mero,bomber,gun
 vn-deriv,slice,slicing
 event,eat,radish
 hyper,bug,cockroach
-CASERELATIONS$Recipient:Instrument,marriage,license
 REFERENCE$Representation,movie,screenplay
 vn-deriv,savor,relish
 mero,ambulance,top
@@ -4624,7 +4530,6 @@ mero,butterfly,leg
 SPACE-TIME$Contiguity,wall,shelf
 vn-deriv,count,counting
 event,annoy,wasp
-CASERELATIONS$Action:Recipient,serve,customer
 vn-deriv,steep,steeper
 mero,beaver,tooth
 vn-deriv,jeopardize,jeopardy
@@ -4742,7 +4647,6 @@ event,switch,television
 collective_noun,brood,turkeys
 mero,tanker,keel
 event,build,stereo
-CASERELATIONS$Action:Object,forgive,insult
 mero,beaver,ear
 hyper,mammal,goat
 event,slice,radish
@@ -4781,7 +4685,6 @@ mero,sword,tip
 vn-deriv,impart,imparting
 event,breathe,gorilla
 mero,mother,children
-CASERELATIONS$Agent:Instrument,lifeguard,preserver
 noun_singplur,official,officials
 vn-deriv,stalk,stalker
 vn-deriv,reassure,reassurance
@@ -4969,7 +4872,6 @@ SPACE-TIME$Location:Instrument/AssociatedItem,ball,sport
 mero,wrench,head
 mero,restaurant,restroom
 prefix$re,insurance,reinsurance
-CASERELATIONS$Agent:Instrument,hairdresser,comb
 vn-deriv,immobilize,immobilizing
 mero,scooter,brake
 mero,squirrel,fur
@@ -5052,7 +4954,6 @@ vn-deriv,dance,dancer
 REFERENCE$Concealment,hat,hair
 event,make,phone
 event,build,bomber
-CASERELATIONS$Object:Instrument,baby,diaper
 event,build,sofa
 vn-deriv,cool,cooler
 SPACE-TIME$Attachment,tires,car
@@ -5091,7 +4992,6 @@ vn-deriv,sweeten,sweetener
 event,send,box
 vn-deriv,regress,regression
 SPACE-TIME$Contiguity,grout,tile
-CASERELATIONS$Action:Object,cook,food
 mero,box,lid
 event,keep,hatchet
 event,clean,cloak
@@ -5345,7 +5245,6 @@ mero,train,interior
 event,live,herring
 event,lay,crow
 mero,van,oil
-CASERELATIONS$Action:Object,chant,prayer
 CAUSE-PURPOSE$Action/Activity:Goal,jog,exercise
 lvc,place,order
 event,pound,hammer
@@ -5389,7 +5288,6 @@ vn-deriv,provoke,provocation
 SPACE-TIME$Item:Location,classroom,students
 mero,beaver,foot
 event,make,fork
-CASERELATIONS$Agent:Object,art,artist
 vn-deriv,arrest,arrester
 event,tear,knife
 vn-deriv,moderate,moderator
@@ -5465,7 +5363,6 @@ vn-deriv,calibrate,calibration
 event,defrost,fridge
 mero,salmon,eye
 mero,cathedral,bench
-CASERELATIONS$Action:Recipient,sell,buyer
 verb_past,require,required
 noun_singplur,leader,leaders
 event,live,villa
@@ -5492,7 +5389,6 @@ event,carry,violin
 mero,hospital,surgery
 mero,screwdriver,iron
 vn-deriv,communicate,communication
-CASERELATIONS$Object:Recipient,religion,disciple
 CAUSE-PURPOSE$Instrument:IntendedAction,telephone,call
 mero,box,paper
 vn-deriv,emphasize,emphasizing
@@ -5594,7 +5490,6 @@ event,sharpen,knife
 collective_noun,colony,rats
 vn-deriv,drive,drift
 vn-deriv,die,dying
-CASERELATIONS$Object:Recipient,payment,debtor
 event,use,clarinet
 mero,car,accelerator
 event,cook,coconut
@@ -5670,7 +5565,6 @@ event,visit,hospital
 mero,strawberry,seed
 vn-deriv,infect,infection
 event,sound,guitar
-CASERELATIONS$Agent:Object,mechanic,wrench
 mero,stove,cooker
 event,nest,vulture
 hyper,seafood,whale
@@ -5681,7 +5575,6 @@ vn-deriv,cup,cupping
 event,breathe,robin
 vn-deriv,commute,commutation
 vn-deriv,smock,smocking
-CASERELATIONS$Recipient:Instrument,owner,deed
 REFERENCE$Plan,rules,game
 event,pierce,knife
 vn-deriv,impoverish,impoverishment
@@ -5710,7 +5603,6 @@ hyper,fish,catfish
 event,listen,violin
 vn-deriv,differ,difference
 vn-deriv,lift,lifter
-CASERELATIONS$Action:Object,slay,dragon
 mero,swan,plumage
 vn-deriv,model,modeling
 vn-deriv,produce,production
@@ -5740,7 +5632,6 @@ event,fight,helicopter
 vn-deriv,trace,tracer
 mero,hammer,head
 mero,horse,nose
-CASERELATIONS$Object:Instrument,paper,pen
 verb_past,begin,began
 CAUSE-PURPOSE$Agent:Goal,mediator,reconciliation
 mero,battleship,skeleton
@@ -5754,14 +5645,12 @@ event,build,phone
 vn-deriv,initiate,initiator
 event,die,owl
 event,capture,hornet
-CASERELATIONS$Agent:Object,baker,bread
 event,detonate,bomb
 event,catch,tuna
 verb_3rd_past,runs,ran
 event,clean,coat
 hyper,vehicle,truck
 event,harvest,plum
-CASERELATIONS$Agent:Instrument,musician,instrument
 CAUSE-PURPOSE$Agent:Goal,hunter,prey
 CAUSE-PURPOSE$EnablingAgent:Object,electricity,stove
 vn-deriv,wither,withering
@@ -5869,7 +5758,6 @@ event,scuttle,cockroach
 mero,table,top
 hyper,artifact,toaster
 verb_past,run,ran
-CASERELATIONS$Object:Instrument,wound,bandage
 vn-deriv,refer,referee
 hyper,tool,rake
 mero,hospital,patient
@@ -5997,11 +5885,8 @@ vn-deriv,huff,huffing
 event,assemble,desk
 REFERENCE$Plan,agenda,routine
 vn-deriv,abhor,abhorrence
-CASERELATIONS$Agent:Object,teacher,books
-CASERELATIONS$Action:Object,learn,skill
 ATTRIBUTE$ObjectState(noun:noun),baby,helpless
 event,wash,potato
-CASERELATIONS$Agent:Object,butcher,meat
 event,repair,bomber
 vn-deriv,harvest,harvester
 CAUSE-PURPOSE$EnablingAgent:Object,bulb,flashlight
@@ -6042,11 +5927,9 @@ vn-deriv,ratify,ratification
 mero,jet,steel
 lvc,make,investment
 mero,salmon,bone
-CASERELATIONS$Object:Instrument,teeth,toothbrush
 vn-deriv,defame,defamation
 vn-deriv,despair,desperation
 vn-deriv,keep,keeping
-CASERELATIONS$Object:Recipient,tip,waitress
 prefix$re,admit,readmit
 event,cost,motorcycle
 hyper,vegetable,corn
@@ -6114,7 +5997,6 @@ collective_noun,tidings,magpies
 mero,cranberry,juice
 mero,apple,juice
 verb_3rd_past,likes,liked
-CASERELATIONS$Agent:Recipient,salesperson,buyer
 CAUSE-PURPOSE$Agent:Goal,patient,health
 mero,villa,door
 vn-deriv,snuggle,snuggling
@@ -6144,7 +6026,6 @@ SPACE-TIME$Item:Location,cupboard,dishes
 hyper,fish,mackerel
 vn-deriv,slip,slippage
 event,soar,eagle
-CASERELATIONS$Agent:Recipient,seller,buyer
 vn-deriv,cruise,cruiser
 mero,truck,roof
 mero,coast,east
@@ -6165,21 +6046,18 @@ collective_noun,route,wolves
 event,cost,ambulance
 event,rest,castle
 mero,wrench,steel
-CASERELATIONS$Agent:Instrument,mechanic,tools
 vn-deriv,supervise,supervising
 event,hurt,cannon
 event,eat,fox
 event,load,washer
 event,rest,sofa
 hyper,vegetable,radish
-CASERELATIONS$Object:Instrument,dog,leash
 SPACE-TIME$TimeAction/Activity,bedtime,sleeping
 vn-deriv,fight,fighting
 event,operate,hospital
 vn-deriv,saturate,saturation
 event,cost,truck
 ATTRIBUTE$ObjectState(noun:noun),forgetful,aloof
-CASERELATIONS$Agent:Instrument,police,gun
 event,stroke,cat
 mero,sweater,wool
 vn-deriv,warm,warming
@@ -6311,7 +6189,6 @@ event,sharpen,hatchet
 mero,bowl,ceramic
 event,eat,hornet
 hyper,colors,blue
-CASERELATIONS$Agent:Object,artist,art
 event,bite,rabbit
 event,drive,helicopter
 hyper,produce,cabbage
@@ -6349,7 +6226,6 @@ event,learn,cello
 lvc,make,offer
 mero,lizard,scale
 mero,swan,beak
-CASERELATIONS$Agent:Instrument,shooter,gun
 event,attack,dagger
 event,live,robin
 event,pull,donkey
@@ -6409,7 +6285,6 @@ mero,robe,shoulder
 event,watch,butterfly
 verb_past,want,wanted
 vn-deriv,oversee,overseer
-CASERELATIONS$Action:Object,cook,meal
 vn-deriv,decompose,decomposition
 SPACE-TIME$Attachment,shoes,feet
 prefix$re,do,redo
@@ -6460,7 +6335,6 @@ mero,spoon,silver
 mero,cello,bow
 vn-deriv,publicize,publicizing
 hyper,clothing,vest
-CASERELATIONS$Action:Object,execute,criminal
 mero,van,steel
 prefix$re,brand,rebrand
 vn-deriv,differentiate,differentiator
@@ -6469,7 +6343,6 @@ hyper,artifact,helicopter
 vn-deriv,tear,tearing
 vn-deriv,aggregate,aggregator
 event,produce,washer
-CASERELATIONS$Recipient:Instrument,baby,bottle
 event,strike,missile
 event,fix,hammer
 vn-deriv,transform,transformation
@@ -6499,7 +6372,6 @@ mero,spear,barb
 event,keep,chisel
 event,enjoy,guitar
 hyper,transport,train
-CASERELATIONS$Recipient:Instrument,singer,microphone
 mero,horse,flesh
 event,swing,hatchet
 mero,radio,metal
@@ -6776,7 +6648,6 @@ mero,dove,pinion
 vn-deriv,remit,remission
 hyper,equipment,television
 mero,guitar,top
-CASERELATIONS$Object:Recipient,diploma,graduate
 vn-deriv,spend,spender
 mero,dress,material
 mero,freezer,steel
@@ -6876,7 +6747,6 @@ event,sit,sofa
 event,serve,spoon
 event,breed,cow
 mero,sheep,leg
-CASERELATIONS$Action:Recipient,pay,debtor
 hyper,tool,saw
 vn-deriv,register,registration
 SPACE-TIME$TimeAction/Activity,adulthood,responsibility
@@ -6963,7 +6833,6 @@ mero,jug,milk
 REFERENCE$Expression,slap,anger
 vn-deriv,drill,drilling
 event,eat,penguin
-CASERELATIONS$Agent:Instrument,shopper,cart
 event,work,shovel
 vn-deriv,shut,shutter
 CAUSE-PURPOSE$EnablingAgent:Object,battery,phone
@@ -7005,7 +6874,6 @@ collective_noun,flush,ducks
 event,kill,cannon
 mero,willow,wood
 ATTRIBUTE$Action:ObjectAttribute,apple,picker
-CASERELATIONS$Agent:Object,poet,words
 mero,cathedral,ceiling
 vn-deriv,partition,partitioning
 event,contain,wardrobe
@@ -7044,7 +6912,6 @@ event,produce,robe
 mero,bag,exterior
 collective_noun,bevy,doves
 mero,blouse,cotton
-CASERELATIONS$Recipient:Instrument,butcher,knife
 vn-deriv,guess,guessing
 event,kill,bull
 mero,trout,scale
@@ -7053,7 +6920,6 @@ mero,revolver,stock
 hyper,cutlery,fork
 vn-deriv,impute,imputation
 lvc,give,lift
-CASERELATIONS$Recipient:Instrument,judge,authority
 mero,car,gasoline
 hyper,artifact,sword
 vn-deriv,quarry,quarrying
@@ -7078,7 +6944,6 @@ vn-deriv,patch,patching
 CAUSE-PURPOSE$Cause:Effect,cold,sneeze
 vn-deriv,concede,conceding
 mero,castle,kitchen
-CASERELATIONS$Object:Recipient,fastball,catcher
 mero,revolver,charge
 event,eat,fork
 vn-deriv,row,rowing
@@ -7087,14 +6952,11 @@ event,sit,truck
 SPACE-TIME$Attachment,scarf,neck
 vn-deriv,remain,remainder
 mero,jet,fuel
-CASERELATIONS$Object:Instrument,thread,needle
 mero,ambulance,back
 event,eat,garlic
 hyper,root,radish
-CASERELATIONS$Agent:Recipient,manager,employee
 verb_3rd,come,comes
 collective_noun,destruction,cats
-CASERELATIONS$Action:Recipient,give,receiver
 vn-deriv,handicap,handicapper
 REFERENCE$Concealment,hose,legs
 hyper,furniture,wardrobe
@@ -7109,7 +6971,6 @@ mero,motorcycle,fuel
 vn-deriv,jewel,jewelry
 mero,pigeon,pinion
 event,steal,scooter
-CASERELATIONS$Action:Object,donate,charity
 vn-deriv,disarm,disarming
 event,play,guitar
 mero,knife,blade
@@ -7166,7 +7027,6 @@ event,tie,scarf
 mero,jacket,zipper
 vn-deriv,wipe,wiper
 mero,homeowner,door
-CASERELATIONS$Object:Instrument,dish,soap
 vn-deriv,advertise,advertiser
 SPACE-TIME$Item:Location,kitchen,food
 event,run,rabbit
@@ -7174,11 +7034,9 @@ event,boil,onion
 event,carry,train
 mero,bag,interior
 CAUSE-PURPOSE$Prevention,sleep,tiredness
-CASERELATIONS$Agent:Instrument,hunter,rifle
 hyper,arm,dagger
 hyper,canine,fox
 hyper,good,dishwasher
-CASERELATIONS$Recipient:Instrument,employee,contract
 hyper,predator,lion
 mero,birch,bark
 event,farm,salmon
@@ -7267,7 +7125,6 @@ event,make,blouse
 vn-deriv,erode,eroding
 hyper,object,screwdriver
 mero,truck,diesel
-CASERELATIONS$Agent:Object,florist,flowers
 event,switch,dishwasher
 vn-deriv,savage,savagery
 mero,bookcase,wood
@@ -7348,13 +7205,11 @@ event,feed,goose
 mero,bowl,steel
 mero,hospital,inside
 hyper,artifact,guitar
-CASERELATIONS$Object:Recipient,degree,graduate
 CAUSE-PURPOSE$Prevention,money,poverty
 hyper,animal,horse
 mero,hotel,stairs
 event,pollute,scooter
 event,hunt,gun
-CASERELATIONS$Recipient:Instrument,driver,license
 mero,fox,muzzle
 mero,apple,vitamin
 ATTRIBUTE$Object:TypicalAction(noun.verb),baby,cry
@@ -7443,7 +7298,6 @@ mero,eagle,claw
 event,call,phone
 collective_noun,herd,elk
 event,fuel,ferry
-CASERELATIONS$Action:Recipient,question,suspect
 collective_noun,horde,gnats
 collective_noun,flock,pigeons
 vn-deriv,supervise,supervision
@@ -7454,7 +7308,6 @@ mero,gun,breech
 mero,wardrobe,garment
 event,shoot,beaver
 mero,mackerel,scale
-CASERELATIONS$Agent:Recipient,preacher,congregation
 event,enjoy,saxophone
 vn-deriv,perfect,perfection
 event,board,yacht
@@ -7470,7 +7323,6 @@ event,keep,sieve
 vn-deriv,distribute,distributor
 event,contain,bottle
 mero,motorcycle,seat
-CASERELATIONS$Agent:Recipient,proprietor,customer
 verb_3rd,continue,continues
 verb_past,continue,continued
 prefix$re,cast,recast
@@ -7552,7 +7404,6 @@ vn-deriv,sparkle,sparkler
 mero,squirrel,leg
 event,pour,bottle
 mero,battleship,bulkhead
-CASERELATIONS$Recipient:Instrument,teacher,certificate
 mero,cannon,steel
 vn-deriv,cobble,cobbling
 hyper,animal,pheasant
@@ -7607,7 +7458,6 @@ vn-deriv,insist,insisting
 hyper,vertebrate,donkey
 prefix$re,gain,regain
 vn-deriv,disable,disablement
-CASERELATIONS$Object:Instrument,car,road
 mero,catfish,skin
 verb_3rd,keep,keeps
 event,pollute,car
@@ -7664,7 +7514,6 @@ mero,cello,string
 hyper,artifact,scooter
 event,knit,glove
 vn-deriv,lease,lessee
-CASERELATIONS$Object:Instrument,paper,pencil
 vn-deriv,drink,drinking
 mero,ambulance,oil
 event,heat,oven
@@ -7693,7 +7542,6 @@ event,charge,bull
 event,hold,spade
 mero,ambulance,mirror
 event,keep,spoon
-CASERELATIONS$Agent:Recipient,nanny,child
 event,feed,penguin
 vn-deriv,decide,deciding
 vn-deriv,agree,agreement
@@ -7706,7 +7554,6 @@ event,injure,dagger
 vn-deriv,breed,breeder
 vn-deriv,participate,participation
 mero,car,gear
-CASERELATIONS$Object:Recipient,tip,waiter
 collective_noun,pack,wolves
 hyper,edifice,hotel
 collective_noun,swarm,rats
@@ -7738,7 +7585,6 @@ mero,clarinet,hole
 event,hit,gun
 mero,bear,nose
 event,hold,pistol
-CASERELATIONS$Recipient:Instrument,renter,lease
 verb_3rd_past,considers,considered
 vn-deriv,push,pushing
 vn-deriv,defect,defector
@@ -7847,7 +7693,6 @@ vn-deriv,drum,drummer
 event,recommend,hotel
 vn-deriv,experiment,experimentation
 event,wash,scarf
-CASERELATIONS$Action:Object,brush,teeth
 vn-deriv,advise,advisory
 hyper,creature,lion
 vn-deriv,research,researcher
@@ -7877,16 +7722,13 @@ vn-deriv,decorate,decoration
 mero,rat,muzzle
 vn-deriv,gratify,gratification
 hyper,kitchenware,sieve
-CASERELATIONS$Recipient:Instrument,conductor,baton
 event,run,deer
 vn-deriv,speculate,speculator
 event,sleep,gorilla
 SPACE-TIME$Contiguity,moat,castle
-CASERELATIONS$Agent:Object,athlete,body
 noun_singplur,month,months
 vn-deriv,master,mastering
 mero,rifle,muzzle
-CASERELATIONS$Agent:Object,student,essay
 vn-deriv,vibrate,vibration
 event,keep,dresser
 vn-deriv,escape,escapee
@@ -7901,7 +7743,6 @@ mero,washer,supply
 CAUSE-PURPOSE$Cause:CompensatoryAction,emptiness,fill
 verb_past,return,returned
 mero,elm,wood
-CASERELATIONS$Agent:Object,weaver,cloth
 mero,car,front
 SPACE-TIME$TimeAction/Activity,sale,shopping
 hyper,good,oven
@@ -7951,10 +7792,8 @@ vn-deriv,mature,maturation
 event,sound,phone
 event,ripen,grape
 mero,helicopter,back
-CASERELATIONS$Action:Object,master,craft
 hyper,vertebrate,pigeon
 vn-deriv,speak,speaker
-CASERELATIONS$Action:Object,shovel,snow
 event,kill,deer
 mero,grapefruit,pulp
 event,build,bed
@@ -7971,7 +7810,6 @@ mero,bowl,inside
 vn-deriv,proliferate,proliferation
 mero,frigate,wood
 CAUSE-PURPOSE$Instrument:IntendedAction,handle,turn
-CASERELATIONS$Agent:Object,stove,meals
 event,sleep,cow
 vn-deriv,be,being
 event,breathe,crow
@@ -7990,7 +7828,6 @@ hyper,clothes,shirt
 vn-deriv,endure,endurance
 event,burn,pub
 collective_noun,parcel,penguins
-CASERELATIONS$Agent:Recipient,boss,employee
 mero,van,radio
 event,scare,lion
 vn-deriv,occupy,occupier
@@ -8014,7 +7851,6 @@ collective_noun,parcel,hogs
 mero,pistol,muzzle
 mero,cat,head
 event,grow,cabbage
-CASERELATIONS$Action:Recipient,barrio,community
 vn-deriv,plant,planter
 mero,hatchet,handle
 event,wield,hatchet
@@ -8060,7 +7896,6 @@ vn-deriv,mediate,mediator
 mero,cathedral,person
 event,live,hawk
 hyper,produce,lime
-CASERELATIONS$Object:Recipient,check,employee
 verb_3rd,use,uses
 verb_3rd,join,joins
 event,boil,cauliflower
@@ -8228,7 +8063,6 @@ mero,ambulance,window
 vn-deriv,harmonize,harmony
 vn-deriv,rival,rivalry
 CAUSE-PURPOSE$Prevention,fungicide,mold
-CASERELATIONS$Agent:Object,camera,memories
 vn-deriv,mow,mower
 vn-deriv,whir,whirring
 mero,gorilla,fur
@@ -8246,7 +8080,6 @@ SPACE-TIME$Item:Location,garden,flower
 event,hold,hatchet
 collective_noun,herd,oxen
 mero,radio,circuit
-CASERELATIONS$Action:Recipient,borrow,bank
 vn-deriv,deposit,deposition
 mero,swan,plume
 mero,stove,metal
@@ -8256,7 +8089,6 @@ lvc,take,effect
 vn-deriv,absent,absence
 mero,jar,food
 mero,violin,body
-CASERELATIONS$Agent:Instrument,writer,pen
 vn-deriv,stun,stunner
 event,roast,stove
 event,throw,chair
@@ -8292,7 +8124,6 @@ mero,pub,brick
 vn-deriv,excavate,excavation
 vn-deriv,thin,thinning
 event,cut,saw
-CASERELATIONS$Action:Recipient,house,home
 event,catch,cockroach
 collective_noun,swarm,gnats
 event,croak,frog
@@ -8341,7 +8172,6 @@ mero,bookcase,side
 vn-deriv,preside,president
 event,roost,eagle
 collective_noun,colony,beavers
-CASERELATIONS$Action:Recipient,fight,enemy
 event,stop,bus
 vn-deriv,compose,composition
 mero,phone,receiver
@@ -8360,7 +8190,6 @@ CAUSE-PURPOSE$Instrument:IntendedAction,pencil,write
 event,blast,missile
 mero,cacophony,howls
 hyper,commodity,robe
-CASERELATIONS$Agent:Instrument,driver,truck
 vn-deriv,dissent,dissenter
 vn-deriv,restore,restorer
 mero,pheasant,rump
@@ -8430,7 +8259,6 @@ vn-deriv,disown,disowning
 CAUSE-PURPOSE$Instrument:IntendedAction,phone,call
 event,roost,goose
 mero,fridge,plug
-CASERELATIONS$Agent:Instrument,doctor,thermometer
 event,break,chair
 noun_singplur,operation,operations
 mero,van,bonnet
@@ -8517,7 +8345,6 @@ event,eat,strawberry
 vn-deriv,prostrate,prostration
 hyper,object,pistol
 mero,gun,cartridge
-CASERELATIONS$Action:Recipient,design,shopper
 event,lay,vulture
 vn-deriv,track,tracker
 hyper,food,pear
@@ -8596,7 +8423,6 @@ event,throw,dresser
 vn-deriv,circulate,circle
 event,fall,cedar
 event,work,spade
-CASERELATIONS$Agent:Recipient,seller,customer
 vn-deriv,chant,chanting
 mero,cow,foot
 vn-deriv,extract,expression
@@ -8615,7 +8441,6 @@ event,breathe,snake
 vn-deriv,reproduce,reproduction
 event,sit,van
 vn-deriv,shrink,shrinking
-CASERELATIONS$Action:Object,read,book
 vn-deriv,cheat,cheating
 event,attack,bull
 mero,vest,button
@@ -8658,7 +8483,6 @@ REFERENCE$Representation,account,history
 event,travel,jet
 event,enjoy,castle
 event,lay,goose
-CASERELATIONS$Action:Object,clean,house
 hyper,tool,knife
 event,wound,knife
 event,sleep,goat
@@ -8744,7 +8568,6 @@ CAUSE-PURPOSE$Cause:Effect,accident,damage
 event,live,hotel
 mero,gun,bullet
 event,fix,truck
-CASERELATIONS$Object:Instrument,guitar,pick
 mero,blouse,collar
 mero,bowl,liquid
 vn-deriv,imprison,imprisonment
@@ -8768,7 +8591,6 @@ event,miss,train
 vn-deriv,obliterate,obliteration
 vn-deriv,preserve,preservation
 event,break,frigate
-CASERELATIONS$Action:Object,clean,floor
 vn-deriv,whistle,whistling
 mero,shirt,cuff
 mero,train,coach
@@ -8887,7 +8709,6 @@ vn-deriv,repair,reparation
 mero,owl,pinion
 vn-deriv,insist,insistence
 event,own,piano
-CASERELATIONS$Action:Recipient,absolve,sinner
 event,kill,dagger
 vn-deriv,bless,blessing
 mero,castle,ceiling
@@ -8909,7 +8730,6 @@ mero,motorcycle,gas
 vn-deriv,differentiate,differentiation
 hyper,utensil,screwdriver
 mero,jet,windshield
-CASERELATIONS$Object:Recipient,bottle,baby
 event,break,bus
 mero,hospital,machine
 mero,hammer,wood
@@ -8945,7 +8765,6 @@ mero,car,driver
 vn-deriv,reassign,reassignment
 mero,chisel,handle
 hyper,mammal,gorilla
-CASERELATIONS$Agent:Instrument,trainer,treats
 vn-deriv,argue,argumentation
 verb_3rd,meet,meets
 event,store,library
@@ -8954,7 +8773,6 @@ vn-deriv,reveal,revealing
 SPACE-TIME$Item:Location,forest,trees
 event,clean,fridge
 mero,blood,droplets
-CASERELATIONS$Object:Recipient,ribbon,winner
 vn-deriv,observe,observation
 event,sing,cathedral
 event,ripen,banana
@@ -8965,7 +8783,6 @@ event,attack,revolver
 hyper,object,jacket
 vn-deriv,slay,slaying
 verb_past,show,showed
-CASERELATIONS$Object:Instrument,carpet,vacuum
 hyper,site,hospital
 event,use,rake
 event,brandish,rifle
@@ -9011,8 +8828,6 @@ mero,pub,glass
 mero,garlic,clove
 vn-deriv,graduate,graduation
 vn-deriv,cleave,cleaver
-CASERELATIONS$Agent:Instrument,policeman,handcuffs
-CASERELATIONS$Recipient:Instrument,winner,trophy
 hyper,device,oven
 hyper,device,rifle
 vn-deriv,anchor,anchorage
@@ -9057,7 +8872,6 @@ collective_noun,team,cattle
 vn-deriv,readjust,readjustment
 event,tune,saxophone
 event,turn,screwdriver
-CASERELATIONS$Object:Instrument,wall,paint
 mero,tanker,fore
 event,die,beetle
 mero,restaurant,ceiling
@@ -9074,7 +8888,6 @@ hyper,implement,spade
 event,hide,cockroach
 vn-deriv,speak,speaking
 vn-deriv,decimate,decimation
-CASERELATIONS$Recipient:Instrument,insured,policy
 vn-deriv,retrieve,retrieval
 event,swoop,vulture
 event,dust,box
@@ -9163,7 +8976,6 @@ collective_noun,cloud,gnats
 mero,train,steam
 mero,coat,hem
 event,hire,van
-CASERELATIONS$Recipient:Instrument,married,ring
 event,drive,screwdriver
 vn-deriv,sweep,sweeping
 mero,hospital,center
@@ -9181,7 +8993,6 @@ mero,pigeon,rump
 event,rot,carrot
 event,put,robe
 vn-deriv,acquire,acquisition
-CASERELATIONS$Agent:Recipient,shopkeeper,patron
 event,eat,spoon
 prefix$re,appointment,reappointment
 prefix$re,interpret,reinterpret
@@ -9314,7 +9125,6 @@ event,sting,wasp
 hyper,beast,rat
 vn-deriv,die,death
 event,stop,helicopter
-CASERELATIONS$Object:Instrument,hands,soap
 event,bake,potato
 mero,tiger,mane
 vn-deriv,dub,dubbing
@@ -9457,7 +9267,6 @@ hyper,warplane,bomber
 event,buy,flute
 mero,bull,stomach
 vn-deriv,arbitrate,arbitration
-CASERELATIONS$Recipient:Instrument,princess,tiara
 event,carry,sword
 REFERENCE$Representation,invention,idea
 mero,revolver,projectile
@@ -9500,7 +9309,6 @@ CAUSE-PURPOSE$Agent:Goal,athlete,record
 mero,radio,channel
 event,tear,cloak
 mero,scooter,frame
-CASERELATIONS$Agent:Instrument,librarian,books
 event,poach,tiger
 vn-deriv,impersonate,persona
 CAUSE-PURPOSE$Instrument:Goal,honey,sweetness
@@ -9791,7 +9599,6 @@ mero,expert,experience
 event,kill,wasp
 verb_past,have,had
 event,store,mug
-CASERELATIONS$Agent:Instrument,driver,car
 REFERENCE$Representation,journal,events
 event,break,yacht
 vn-deriv,enclose,enclosing
@@ -9831,17 +9638,14 @@ mero,washer,plug
 hyper,object,sofa
 vn-deriv,idle,idling
 vn-deriv,catalyze,catalyst
-CASERELATIONS$Agent:Recipient,coach,athlete
 vn-deriv,steamroll,steamroller
 vn-deriv,compete,competition
 vn-deriv,game,gaming
 mero,van,gear
 event,smoke,tuna
 event,rot,grape
-CASERELATIONS$Agent:Recipient,student,teacher
 event,lock,box
 noun_singplur,source,sources
-CASERELATIONS$Action:Recipient,vendor,consumer
 event,zip,coat
 event,come,yacht
 vn-deriv,roast,roasting
@@ -9855,7 +9659,6 @@ vn-deriv,disenfranchise,disenfranchisement
 hyper,implement,cannon
 event,swoop,falcon
 vn-deriv,regulate,regulation
-CASERELATIONS$Agent:Object,novelist,books
 SPACE-TIME$Attachment,bracelet,wrist
 collective_noun,sounder,pigs
 event,stab,spear
@@ -9867,14 +9670,12 @@ event,nest,swan
 event,die,dolphin
 vn-deriv,reelect,reelection
 event,chop,parsley
-CASERELATIONS$Action:Recipient,sentence,criminal
 vn-deriv,fumigate,fume
 mero,cottage,interior
 mero,donkey,mouth
 SPACE-TIME$Location:Process/Product,factory,product
 vn-deriv,solo,soloist
 hyper,seasoning,pepper
-CASERELATIONS$Agent:Object,programmer,code
 vn-deriv,profess,professing
 event,hold,bookcase
 mero,jar,inside
@@ -9951,7 +9752,6 @@ vn-deriv,temper,temperance
 mero,sheep,meat
 vn-deriv,dispose,disposition
 mero,ambulance,medic
-CASERELATIONS$Action:Recipient,preach,parishioner
 mero,jar,color
 event,wash,blouse
 CAUSE-PURPOSE$Agent:Goal,dancer,applause
@@ -10067,13 +9867,11 @@ event,cut,sword
 noun_singplur,team,teams
 mero,motorcycle,frame
 event,rot,garlic
-CASERELATIONS$Object:Instrument,hair,brush
 lvc,make,reduction
 event,hunt,eagle
 vn-deriv,computerize,computer
 vn-deriv,traffic,trafficker
 event,cut,grapefruit
-CASERELATIONS$Agent:Recipient,textbook,reader
 event,tear,scarf
 vn-deriv,pirate,piracy
 vn-deriv,lament,lamentation
@@ -10120,7 +9918,6 @@ event,pluck,guitar
 hyper,fish,tuna
 SPACE-TIME$TimeAction/Activity,spring,blooming
 hyper,fruit,strawberry
-CASERELATIONS$Agent:Recipient,preacher,parishioner
 mero,cannon,remover
 vn-deriv,bruise,bruiser
 CAUSE-PURPOSE$Action/Activity:Goal,shoot,kill
@@ -10149,7 +9946,6 @@ vn-deriv,bake,baker
 ATTRIBUTE$Object:TypicalAction(noun.verb),student,learn
 mero,fighter,motor
 event,chew,beaver
-CASERELATIONS$Action:Recipient,order,soldier
 event,feed,dolphin
 event,enter,pub
 event,eat,beaver
@@ -10196,7 +9992,6 @@ event,follow,goose
 hyper,artifact,spear
 vn-deriv,plot,plotter
 SPACE-TIME$Location:Action/Activity,house,living
-CASERELATIONS$Agent:Recipient,student,professor
 vn-deriv,freelance,freelancer
 prefix$re,appraisal,reappraisal
 mero,tanker,anchor
@@ -10218,7 +10013,6 @@ event,fix,car
 hyper,implement,screwdriver
 mero,dress,skirt
 vn-deriv,knit,knitting
-CASERELATIONS$Agent:Instrument,pitcher,baseball
 hyper,object,toaster
 vn-deriv,muse,musing
 SPACE-TIME$Location:Action/Activity,store,shopping
@@ -10271,7 +10065,6 @@ mero,dagger,grip
 vn-deriv,hop,hopper
 mero,hotel,exterior
 mero,snake,scale
-CASERELATIONS$Agent:Recipient,salesperson,customer
 event,cut,cod
 event,coil,snake
 hyper,book,novel
@@ -10282,7 +10075,6 @@ mero,dresser,leg
 vn-deriv,liberalize,liberalization
 vn-deriv,stew,stewing
 event,board,battleship
-CASERELATIONS$Object:Recipient,grant,scientist
 event,eat,carrot
 vn-deriv,reform,reformist
 collective_noun,warren,rabbits
@@ -10357,7 +10149,6 @@ event,drink,tiger
 vn-deriv,disillusion,disillusionment
 CAUSE-PURPOSE$Cause:Effect,loss,grief
 vn-deriv,initiate,initiation
-CASERELATIONS$Object:Recipient,medal,hero
 event,inhabit,owl
 vn-deriv,wave,waver
 event,breathe,herring
@@ -10371,7 +10162,6 @@ hyper,vegetable,beet
 event,season,garlic
 event,harm,spear
 mero,box,tin
-CASERELATIONS$Object:Recipient,ring,bride
 mero,bomb,metal
 event,throw,vest
 mero,restaurant,light
@@ -10403,7 +10193,6 @@ collective_noun,drove,hares
 event,use,shovel
 vn-deriv,mutilate,mutilation
 hyper,watercraft,tanker
-CASERELATIONS$Agent:Object,chef,ingredients
 REFERENCE$Sign:Significant,red,stop
 hyper,meat,beef
 hyper,watercraft,ferry
@@ -10478,7 +10267,6 @@ event,heat,bowl
 vn-deriv,package,packaging
 event,carry,hammer
 vn-deriv,enforce,enforcer
-CASERELATIONS$Object:Recipient,degree,lawyer
 mero,coat,front
 REFERENCE$Knowledge,biology,life
 event,cover,glove
@@ -10733,17 +10521,14 @@ mero,van,motor
 mero,restaurant,inside
 hyper,accessory,glove
 event,produce,car
-CASERELATIONS$Object:Recipient,fuel,rocket
 event,wash,mug
 verb_3rd_past,prevents,prevented
 hyper,creature,rat
 hyper,device,sword
 vn-deriv,encapsulate,encapsulation
 mero,deer,antler
-CASERELATIONS$Agent:Object,spinner,yarn
 mero,car,back
 mero,salmon,scale
-CASERELATIONS$Agent:Object,architect,building
 mero,cottage,outside
 mero,tiger,head
 vn-deriv,intimate,intimation
@@ -10843,7 +10628,6 @@ collective_noun,pod,walruses
 event,fight,fighter
 vn-deriv,pet,petting
 vn-deriv,extract,extraction
-CASERELATIONS$Agent:Recipient,lender,borrower
 hyper,beast,sheep
 hyper,china,plates
 vn-deriv,computerize,computerization
@@ -10900,7 +10684,6 @@ event,choose,robe
 vn-deriv,strain,strainer
 mero,grenade,case
 mero,catfish,head
-CASERELATIONS$Object:Instrument,nail,screwdriver
 mero,restaurant,waiter
 vn-deriv,express,expression
 vn-deriv,bat,batting
@@ -10992,7 +10775,6 @@ event,carve,chisel
 mero,gun,sight
 vn-deriv,founder,foundering
 mero,goose,plume
-CASERELATIONS$Action:Object,paint,canvas
 hyper,evergreen,cedar
 mero,bag,handle
 vn-deriv,command,commandment
@@ -11004,7 +10786,6 @@ hyper,produce,potato
 vn-deriv,rear,rearing
 event,kill,rifle
 event,injure,sword
-CASERELATIONS$Recipient:Instrument,queen,throne
 vn-deriv,limit,limiter
 hyper,transport,motorcycle
 mero,grenade,timer
@@ -11067,7 +10848,6 @@ lvc,make,announcement
 vn-deriv,flash,flashing
 mero,grenade,explosive
 verb_3rd,determine,determines
-CASERELATIONS$Action:Object,teach,student
 hyper,cattle,cow
 mero,gun,handle
 event,cook,onion
@@ -11282,7 +11062,6 @@ event,cook,carrot
 vn-deriv,operate,operator
 noun_singplur,life,lives
 event,chase,lion
-CASERELATIONS$Action:Recipient,perform,audience
 event,stall,fighter
 vn-deriv,yawn,yawner
 mero,revolver,remover
@@ -11368,7 +11147,6 @@ event,carry,shovel
 event,eat,whale
 mero,hospital,stairs
 hyper,creature,pheasant
-CASERELATIONS$Action:Recipient,lecture,child
 mero,pheasant,breast
 mero,violin,bout
 hyper,food,whale
@@ -11434,7 +11212,6 @@ hyper,artifact,clarinet
 collective_noun,warren,wombats
 vn-deriv,jam,jamming
 hyper,object,cannon
-CASERELATIONS$Object:Instrument,blackboard,chalk
 mero,pub,beer
 ATTRIBUTE$ObjectState(noun:noun),soldier,war
 event,leave,library
@@ -11504,7 +11281,6 @@ vn-deriv,exert,exertion
 collective_noun,team,ducks
 vn-deriv,pack,packing
 vn-deriv,ascribe,ascription
-CASERELATIONS$Object:Instrument,clothes,iron
 event,fix,jet
 event,ride,bull
 vn-deriv,categorize,category
@@ -11548,7 +11324,6 @@ vn-deriv,roast,roaster
 hyper,animal,butterfly
 mero,rifle,projectile
 hyper,housing,villa
-CASERELATIONS$Recipient:Instrument,wife,ring
 mero,bull,ear
 vn-deriv,align,alignment
 vn-deriv,relinquish,relinquishment
@@ -11569,7 +11344,6 @@ mero,graduation,diploma
 vn-deriv,expire,expiration
 mero,cottage,concrete
 vn-deriv,shave,shaver
-CASERELATIONS$Agent:Recipient,coach,player
 mero,van,plate
 vn-deriv,hesitate,hesitancy
 hyper,creature,robin
@@ -11636,7 +11410,6 @@ vn-deriv,disappear,disappearance
 vn-deriv,synchronize,synchronization
 vn-deriv,stir,stirring
 vn-deriv,hunt,hunter
-CASERELATIONS$Recipient:Instrument,employee,paycheck
 hyper,creature,elephant
 vn-deriv,break,breakage
 vn-deriv,transgress,transgression
@@ -11794,7 +11567,6 @@ vn-deriv,shed,shedding
 vn-deriv,propagate,propagation
 mero,cedar,cone
 collective_noun,colony,gulls
-CASERELATIONS$Action:Object,capture,villain
 mero,lemon,pulp
 event,tune,television
 vn-deriv,seal,sealer
@@ -11806,7 +11578,6 @@ mero,refinery,gas
 hyper,good,shirt
 event,moult,snake
 event,breathe,falcon
-CASERELATIONS$Agent:Recipient,vet,animal
 verb_past,study,studied
 collective_noun,wedge,swans
 mero,cloak,material
@@ -11855,7 +11626,6 @@ collective_noun,flange,baboons
 mero,dishwasher,motor
 CAUSE-PURPOSE$Agent:Goal,farmer,food
 event,produce,fork
-CASERELATIONS$Recipient:Instrument,referee,whistle
 vn-deriv,prod,prodding
 hyper,seafood,tuna
 vn-deriv,devastate,devastation
@@ -11882,11 +11652,9 @@ hyper,vertebrate,elephant
 vn-deriv,communicate,communicator
 vn-deriv,fragment,fragmentation
 mero,villa,fireplace
-CASERELATIONS$Agent:Recipient,therapist,client
 collective_noun,colony,penguins
 mero,elm,root
 event,carry,chisel
-CASERELATIONS$Recipient:Instrument,husband,marriage
 event,breathe,hornet
 vn-deriv,impress,impression
 vn-deriv,arbitrage,arbitrager
@@ -11966,9 +11734,7 @@ event,clean,wrench
 vn-deriv,bargain,bargaining
 event,fill,tanker
 vn-deriv,pound,pounding
-CASERELATIONS$Object:Recipient,baby,parents
 event,drink,fox
-CASERELATIONS$Agent:Instrument,surgeon,scalpel
 event,cook,whale
 vn-deriv,float,flotation
 mero,owl,claw
@@ -12040,7 +11806,6 @@ event,turn,car
 mero,library,elevator
 event,produce,bottle
 SPACE-TIME$Location:Process/Product,school,learning
-CASERELATIONS$Action:Object,close,door
 mero,tanker,rudder
 event,wipe,washer
 vn-deriv,happen,happening
@@ -12260,7 +12025,6 @@ event,sound,flute
 event,build,pistol
 vn-deriv,ready,readying
 vn-deriv,seep,seepage
-CASERELATIONS$Agent:Instrument,gardener,shovel
 mero,van,handbrake
 vn-deriv,interpret,interpreting
 event,roar,lion
@@ -12300,7 +12064,6 @@ mero,grapefruit,juice
 prefix$re,double,redouble
 CAUSE-PURPOSE$Cause:Effect,germs,sickness
 ATTRIBUTE$ObjectState(noun:noun),expert,knowledge
-CASERELATIONS$Action:Object,sweep,floor
 mero,wrench,jaw
 event,harvest,cranberry
 vn-deriv,lower,lowering
@@ -12311,7 +12074,6 @@ mero,phone,cable
 hyper,good,washer
 mero,restaurant,customer
 event,display,bookcase
-CASERELATIONS$Agent:Object,florist,roses
 event,slice,apricot
 event,connect,ferry
 vn-deriv,know,knowing
@@ -12394,7 +12156,6 @@ vn-deriv,attenuate,attenuation
 REFERENCE$Representation,documentary,event
 hyper,site,cathedral
 event,ripen,grapefruit
-CASERELATIONS$Agent:Object,blender,slush
 vn-deriv,remind,reminder
 vn-deriv,probate,probation
 event,live,goose
@@ -12426,7 +12187,6 @@ mero,desk,top
 event,ride,horse
 vn-deriv,sequester,sequestration
 event,attack,bomb
-CASERELATIONS$Object:Recipient,receipt,customer
 vn-deriv,examine,examiner
 vn-deriv,constrict,constrictor
 hyper,jewelry,ring
@@ -12443,7 +12203,6 @@ prefix$re,transmission,retransmission
 mero,jar,outside
 mero,motorcycle,brake
 vn-deriv,transplant,transplantation
-CASERELATIONS$Action:Object,water,plants
 mero,knife,tip
 vn-deriv,dye,dyeing
 mero,cathedral,stairs
@@ -12532,7 +12291,6 @@ mero,bomber,rudder
 event,fuel,van
 event,rot,strawberry
 event,put,coat
-CASERELATIONS$Object:Instrument,criminal,handcuffs
 vn-deriv,interrogate,interrogator
 hyper,object,hatchet
 event,climb,bomber
@@ -12543,7 +12301,6 @@ vn-deriv,damn,damnation
 mero,pear,stem
 mero,fox,eye
 event,enter,tanker
-CASERELATIONS$Agent:Instrument,barber,scissors
 event,build,hotel
 mero,cathedral,cross
 mero,dress,neck
@@ -12584,7 +12341,6 @@ vn-deriv,centralize,centralization
 event,breathe,squirrel
 hyper,conifer,pine
 event,hunt,spear
-CASERELATIONS$Agent:Recipient,professor,student
 vn-deriv,embezzle,embezzlement
 mero,bear,claw
 vn-deriv,decentralize,decentralization
@@ -12601,7 +12357,6 @@ event,catch,falcon
 vn-deriv,impeach,impeachment
 mero,car,rear
 mero,pound,ounce
-CASERELATIONS$Agent:Recipient,mechanic,car
 event,wear,jacket
 collective_noun,clutter,cats
 event,fly,hornet
